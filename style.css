@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 6%;
+    text-align: center;
+}
+
+body {
+    background: #fa0;
+    background: #111;
+}
+
+#calc-app {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    padding: 5%;
+    background: #333;
+}
+
+.text {
+    width: 212px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.boton {
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #111;
+    color: #fff;
+ }
